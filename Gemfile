@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.7"
 
 gem 'jekyll-swiss', '~> 1.0'
+gem 'jekyll-theme-persephone', '~> 0.3.3'
