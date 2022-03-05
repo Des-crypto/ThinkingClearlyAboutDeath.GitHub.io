@@ -28,7 +28,8 @@ twitter_username:
 github_username:  des-crypto
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
+#remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
