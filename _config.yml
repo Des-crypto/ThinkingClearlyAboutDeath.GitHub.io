@@ -21,7 +21,7 @@
 title: Thinking Clearly About Death
 email: descartes.yuan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here I share the Chinese translation of the book **Thinking Clearly About Death** with whoever is interested.
+  Here I share the Chinese translation of Jay F. Rosenberg's book Thinking Clearly About Death with whoever is interested.
 baseurl: "/ThinkingClearlyAboutDeath.GitHub.io" # the subpath of your site, e.g. /blog
 url: "https://des-crypto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
