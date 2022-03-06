@@ -76,10 +76,11 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+#favicon: /assets/favicon.ico
+favicon: /assets/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Philosophy"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -87,7 +88,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2022
 
 # icon between year and author @Footer
 authoricon: heart
@@ -122,7 +123,7 @@ menu:
   about: /about/
   archives: /archives/
   #tags: /tags/
-  sitemap: /sitemap.xml
+  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -233,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/descarteslookingfly.png/assets/images/avatar.gif
-avatar: /assets/images/avatar.gif
+avatar: /assets/images/descarteslookingfly.png
 
 
 # Table Of Contents in the Sidebar

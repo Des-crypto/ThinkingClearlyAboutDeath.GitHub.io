@@ -1,8 +1,6 @@
 ---
 title: Highlight Test
-categories:
- - Test
-tags:
+categories: test
 ---
 
 This is a highlight test.
