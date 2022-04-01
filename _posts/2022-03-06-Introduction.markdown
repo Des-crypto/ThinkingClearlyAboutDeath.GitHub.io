@@ -18,7 +18,7 @@ margin: 500px
 <p style="font-size:100%; text-align:center;">Seeing that death, a necessary end,</p>  
 <p style="font-size:100%; text-align:center;">因为死本来是一个人免不了的结局，</p>  
 <p style="font-size:100%; text-align:center;">Will come when it will come.</p>   
-<p style="font-size:100%; text-align:center;">它要来的时候谁也不能叫它不来。.</p>   
+<p style="font-size:100%; text-align:center;">它要来的时候谁也不能叫它不来。</p>   
 <p style="font-size:100%; text-align:RIGHT;">--William Shakespeare</p>  <p style="font-size:100%; text-align:right;"><i>Julius Caesar</i></p>  <p style="font-size:100%; text-align:right;">II, ii, 34-37</p>  
 </body>
 
