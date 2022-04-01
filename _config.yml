@@ -122,7 +122,7 @@ menu:
   categories: /categories/
   about: /about/
   archives: /archives/
-  comments: /livere.html
+  #comments: /livere.html
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -237,6 +237,7 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/descarteslookingfly.png/assets/images/avatar.gif
 avatar: /assets/images/descarteslookingfly.png
+#avatar: /assets/images/socrates.png
 
 
 # Table Of Contents in the Sidebar
